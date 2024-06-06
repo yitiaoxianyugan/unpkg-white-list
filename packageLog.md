@@ -1,4 +1,4 @@
-## 2024/06/06 16:19 提交 未合并
+## 2024/06/06 16:19 提交 2024/06/06 18:13[已合并]
 vue3-apexcharts
 [js](https://registry.npmmirror.com/vue3-apexcharts/1.5.2/files/dist/vue3-apexcharts.js)
 <br/>
